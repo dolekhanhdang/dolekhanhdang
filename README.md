@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I recently completed my bachelor's degree in computer science from Ho Chi Minh City University of Science (HCMUS) with a specialization in data analysis and data engineering. I am passionate
+about exploring the beauty behind data, discovering data's underlying story, and developing intelligent data-based
+decisions :chart_with_upwards_trend:.
 <!--
 **dolekhanhdang/dolekhanhdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
