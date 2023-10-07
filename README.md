@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/lusty?theme=nord&font=Titillium%20Web&ext=activity)
+**![LeetCode Stats](https://leetcard.jacoblin.cool/lusty?theme=nord&font=Titillium%20Web&ext=activity)
+-->
